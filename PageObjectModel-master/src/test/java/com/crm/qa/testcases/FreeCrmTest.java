@@ -25,6 +25,10 @@ public class FreeCrmTest {
 		js = (JavascriptExecutor) driver;
 		driver.get("https://www.freecrm.com/index.html");
 	}
+	public static void test()
+	{
+		
+	}
 
 	@Test
 	public void freeCrmTitleTest() throws InterruptedException, IOException {
