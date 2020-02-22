@@ -25,9 +25,9 @@ public class FreeCrmTest {
 		js = (JavascriptExecutor) driver;
 		driver.get("https://www.freecrm.com/index.html");
 	}
-	public static void test()
+	public static void test2()
 	{
-		
+		System.out.print("new changes");
 	}
 
 	@Test
